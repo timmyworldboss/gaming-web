@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration-color: blue;
+    text-decoration-line: underline;
+}
+body{
+    background-color: chocolate;
+}
+nav{
+    /* width: 100%; */
+}
+nav a {
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: space-around;
+}
+footer{
+    margin: -8px;
+}
